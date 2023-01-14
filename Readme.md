@@ -1,3 +1,3 @@
 # here is the description about my project tenzies
 Tenzies is a dice game
-where feature add to it
+I will add some feature here in my current repository
